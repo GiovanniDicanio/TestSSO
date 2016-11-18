@@ -4,7 +4,7 @@
 // 
 // The STL strings implement the SSO; ATL's CString doesn't.
 // 
-// This code creates a vector of strings and sort it, both with
+// This code creates a vector of strings and sorts it, both with
 // STL and ATL strings.
 // 
 // by Giovanni Dicanio
