@@ -4,4 +4,5 @@
 by Giovanni Dicanio
 
 Associated blog post:  
-http://blogs.msmvps.com/gdicanio/2016/11/17/the-small-string-optimization/
+https://giodicanio.com/2023/04/26/the-c-small-string-optimization/
+
